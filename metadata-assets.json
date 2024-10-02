@@ -1,4 +1,6 @@
 {
-  "url": "https://raw.githubusercontent.com/eni66ma/0x99nekm812kmepqwv213/refs/heads/main/",
-  "max_stickers": 100
+  "url": "https://cdn.buu.monster/img/memegenerator/sticker/",
+  "max_stickers": 100,
+  "url2": "https://cdn.buu.monster/img/memegenerator/pfp/",
+  "max_pfp": 100
 }
